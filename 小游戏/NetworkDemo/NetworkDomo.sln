@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkDomo", "Assembly-CSharp.csproj", "{96AE37AE-3932-7716-32A6-03F0DBAFEA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkDomo", "Assembly-CSharp-firstpass.csproj", "{09B05B6B-C68D-1579-7440-2AE974240409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkDomo", "Assembly-CSharp-Editor-firstpass.csproj", "{8729FDB9-3498-4AE3-17A3-2BCE7A47FF73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AE37AE-3932-7716-32A6-03F0DBAFEA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AE37AE-3932-7716-32A6-03F0DBAFEA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AE37AE-3932-7716-32A6-03F0DBAFEA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AE37AE-3932-7716-32A6-03F0DBAFEA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B05B6B-C68D-1579-7440-2AE974240409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B05B6B-C68D-1579-7440-2AE974240409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B05B6B-C68D-1579-7440-2AE974240409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B05B6B-C68D-1579-7440-2AE974240409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8729FDB9-3498-4AE3-17A3-2BCE7A47FF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8729FDB9-3498-4AE3-17A3-2BCE7A47FF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8729FDB9-3498-4AE3-17A3-2BCE7A47FF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8729FDB9-3498-4AE3-17A3-2BCE7A47FF73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
